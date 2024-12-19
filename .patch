@@ -1,0 +1,910 @@
+Index: .vs/WindowsFormsAppTRPO/v17/.suo
+===================================================================
+Cannot display: file marked as a binary type.
+svn:mime-type = application/octet-stream
+Index: .vs/WindowsFormsAppTRPO/v17/DocumentLayout.backup.json
+===================================================================
+--- .vs/WindowsFormsAppTRPO/v17/DocumentLayout.backup.json	(revision 7)
++++ .vs/WindowsFormsAppTRPO/v17/DocumentLayout.backup.json	(working copy)
+@@ -3,11 +3,11 @@
+   "WorkspaceRootPath": "C:\\MyProject_Work\\",
+   "Documents": [
+     {
+-      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+-      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
++      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
++      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+     },
+     {
+-      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|c:\\myproject_work\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
++      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+       "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+     },
+     {
+@@ -15,6 +15,10 @@
+       "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+     },
+     {
++      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|c:\\myproject_work\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
++      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
++    },
++    {
+       "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+       "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+     },
+@@ -23,10 +27,6 @@
+       "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+     },
+     {
+-      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+-      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+-    },
+-    {
+       "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+       "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+     },
+@@ -74,7 +74,7 @@
+       "DocumentGroups": [
+         {
+           "DockedWidth": 200,
+-          "SelectedChildIndex": 13,
++          "SelectedChildIndex": 3,
+           "Children": [
+             {
+               "$type": "Bookmark",
+@@ -81,8 +81,12 @@
+               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+             },
+             {
++              "$type": "Bookmark",
++              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
++            },
++            {
+               "$type": "Document",
+-              "DocumentIndex": 4,
++              "DocumentIndex": 5,
+               "Title": "Form5.Designer.cs",
+               "DocumentMoniker": "C:\\MyProject_Work\\Form5.Designer.cs",
+               "RelativeDocumentMoniker": "Form5.Designer.cs",
+@@ -90,19 +94,21 @@
+               "RelativeToolTip": "Form5.Designer.cs",
+               "ViewState": "AgIAAEIAAAAAAAAAAADwv2cAAAAAAAAAAAAAAA==",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T01:39:31.87Z"
++              "WhenOpened": "2024-12-19T01:39:31.87Z",
++              "EditorCaption": ""
+             },
+             {
+               "$type": "Document",
+-              "DocumentIndex": 5,
++              "DocumentIndex": 0,
+               "Title": "Form5.cs",
+               "DocumentMoniker": "C:\\MyProject_Work\\Form5.cs",
+               "RelativeDocumentMoniker": "Form5.cs",
+               "ToolTip": "C:\\MyProject_Work\\Form5.cs",
+               "RelativeToolTip": "Form5.cs",
+-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
++              "ViewState": "AgIAAAAAAAAAAAAAAAAowBoAAAApAAAAAAAAAA==",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T01:39:24.836Z"
++              "WhenOpened": "2024-12-19T01:39:24.836Z",
++              "EditorCaption": ""
+             },
+             {
+               "$type": "Document",
+@@ -110,10 +116,11 @@
+               "Title": "Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+               "DocumentMoniker": "C:\\MyProject_Work\\Form5.cs",
+               "RelativeDocumentMoniker": "Form5.cs",
+-              "ToolTip": "C:\\Users\\yanez\\source\\repos\\WindowsFormsAppTRPO\\Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+-              "RelativeToolTip": "..\\Users\\yanez\\source\\repos\\WindowsFormsAppTRPO\\Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
++              "ToolTip": "C:\\MyProject_Work\\Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
++              "RelativeToolTip": "Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T01:39:23.363Z"
++              "WhenOpened": "2024-12-19T01:39:23.363Z",
++              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+             },
+             {
+               "$type": "Document",
+@@ -135,7 +142,7 @@
+               "RelativeDocumentMoniker": "Form4.cs",
+               "ToolTip": "C:\\MyProject_Work\\Form4.cs",
+               "RelativeToolTip": "Form4.cs",
+-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
++              "ViewState": "AgIAAD4AAAAAAAAAAADwv2MAAAAAAAAAAAAAAA==",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+               "WhenOpened": "2024-12-19T00:53:23.206Z",
+               "EditorCaption": ""
+@@ -150,7 +157,8 @@
+               "RelativeToolTip": "Form4.Designer.cs",
+               "ViewState": "AgIAABsAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T01:03:58.516Z"
++              "WhenOpened": "2024-12-19T01:03:58.516Z",
++              "EditorCaption": ""
+             },
+             {
+               "$type": "Document",
+@@ -160,9 +168,10 @@
+               "RelativeDocumentMoniker": "Form3.cs",
+               "ToolTip": "C:\\MyProject_Work\\Form3.cs",
+               "RelativeToolTip": "Form3.cs",
+-              "ViewState": "AgIAAAUAAAAAAAAAAAAkwCcAAAAAAAAAAAAAAA==",
++              "ViewState": "AgIAABgAAAAAAAAAAADwvz0AAAAAAAAAAAAAAA==",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T00:53:05.064Z"
++              "WhenOpened": "2024-12-19T00:53:05.064Z",
++              "EditorCaption": ""
+             },
+             {
+               "$type": "Document",
+@@ -174,7 +183,8 @@
+               "RelativeToolTip": "Form3.Designer.cs",
+               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T01:03:18.738Z"
++              "WhenOpened": "2024-12-19T01:03:18.738Z",
++              "EditorCaption": ""
+             },
+             {
+               "$type": "Document",
+@@ -182,22 +192,24 @@
+               "Title": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+               "DocumentMoniker": "C:\\MyProject_Work\\Form3.cs",
+               "RelativeDocumentMoniker": "Form3.cs",
+-              "ToolTip": "C:\\Users\\yanez\\source\\repos\\WindowsFormsAppTRPO\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+-              "RelativeToolTip": "..\\Users\\yanez\\source\\repos\\WindowsFormsAppTRPO\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
++              "ToolTip": "C:\\MyProject_Work\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
++              "RelativeToolTip": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T00:53:00.066Z"
++              "WhenOpened": "2024-12-19T00:53:00.066Z",
++              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+             },
+             {
+               "$type": "Document",
+-              "DocumentIndex": 3,
++              "DocumentIndex": 4,
+               "Title": "Form2.cs",
+               "DocumentMoniker": "C:\\MyProject_Work\\Form2.cs",
+               "RelativeDocumentMoniker": "Form2.cs",
+               "ToolTip": "C:\\MyProject_Work\\Form2.cs",
+               "RelativeToolTip": "Form2.cs",
+-              "ViewState": "AgIAAB0AAAAAAAAAAADwv0IAAAAAAAAAAAAAAA==",
++              "ViewState": "AgIAADwAAAAAAAAAAADwv2EAAAAAAAAAAAAAAA==",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T00:52:37.677Z"
++              "WhenOpened": "2024-12-19T00:52:37.677Z",
++              "EditorCaption": ""
+             },
+             {
+               "$type": "Document",
+@@ -209,7 +221,8 @@
+               "RelativeToolTip": "Form2.Designer.cs",
+               "ViewState": "AgIAAEoAAAAAAAAAAADwv3wAAAAPAAAAAAAAAA==",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T01:02:14.195Z"
++              "WhenOpened": "2024-12-19T01:02:14.195Z",
++              "EditorCaption": ""
+             },
+             {
+               "$type": "Document",
+@@ -217,20 +230,21 @@
+               "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+               "DocumentMoniker": "C:\\MyProject_Work\\Form2.cs",
+               "RelativeDocumentMoniker": "Form2.cs",
+-              "ToolTip": "C:\\Users\\yanez\\source\\repos\\WindowsFormsAppTRPO\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+-              "RelativeToolTip": "..\\Users\\yanez\\source\\repos\\WindowsFormsAppTRPO\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
++              "ToolTip": "C:\\MyProject_Work\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
++              "RelativeToolTip": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T00:52:36.405Z"
++              "WhenOpened": "2024-12-19T00:52:36.405Z",
++              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+             },
+             {
+               "$type": "Document",
+-              "DocumentIndex": 0,
++              "DocumentIndex": 3,
+               "Title": "Form1.cs",
+               "DocumentMoniker": "C:\\MyProject_Work\\Form1.cs",
+               "RelativeDocumentMoniker": "Form1.cs",
+               "ToolTip": "C:\\MyProject_Work\\Form1.cs",
+               "RelativeToolTip": "Form1.cs",
+-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
++              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+               "WhenOpened": "2024-12-19T00:51:55.94Z",
+               "EditorCaption": ""
+@@ -245,8 +259,7 @@
+               "RelativeToolTip": "Form1.Designer.cs",
+               "ViewState": "AgIAAAwAAAAAAAAAAAAuwBoAAAAWAAAAAAAAAA==",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T01:01:55.827Z",
+-              "EditorCaption": ""
++              "WhenOpened": "2024-12-19T01:01:55.827Z"
+             },
+             {
+               "$type": "Document",
+@@ -257,8 +270,7 @@
+               "ToolTip": "C:\\MyProject_Work\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+               "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T00:51:45.439Z",
+-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
++              "WhenOpened": "2024-12-19T00:51:45.439Z"
+             },
+             {
+               "$type": "Document",
+@@ -266,10 +278,11 @@
+               "Title": "Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+               "DocumentMoniker": "C:\\MyProject_Work\\Form4.cs",
+               "RelativeDocumentMoniker": "Form4.cs",
+-              "ToolTip": "C:\\Users\\yanez\\source\\repos\\WindowsFormsAppTRPO\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+-              "RelativeToolTip": "..\\Users\\yanez\\source\\repos\\WindowsFormsAppTRPO\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
++              "ToolTip": "C:\\MyProject_Work\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
++              "RelativeToolTip": "Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T00:53:22.05Z"
++              "WhenOpened": "2024-12-19T00:53:22.05Z",
++              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+             }
+           ]
+         }
+Index: .vs/WindowsFormsAppTRPO/v17/DocumentLayout.json
+===================================================================
+--- .vs/WindowsFormsAppTRPO/v17/DocumentLayout.json	(revision 7)
++++ .vs/WindowsFormsAppTRPO/v17/DocumentLayout.json	(working copy)
+@@ -3,11 +3,11 @@
+   "WorkspaceRootPath": "C:\\MyProject_Work\\",
+   "Documents": [
+     {
+-      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+-      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
++      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
++      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+     },
+     {
+-      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|c:\\myproject_work\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
++      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+       "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+     },
+     {
+@@ -15,6 +15,10 @@
+       "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+     },
+     {
++      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|c:\\myproject_work\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
++      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
++    },
++    {
+       "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+       "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+     },
+@@ -23,10 +27,6 @@
+       "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+     },
+     {
+-      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+-      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+-    },
+-    {
+       "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+       "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+     },
+@@ -74,7 +74,7 @@
+       "DocumentGroups": [
+         {
+           "DockedWidth": 200,
+-          "SelectedChildIndex": 13,
++          "SelectedChildIndex": 3,
+           "Children": [
+             {
+               "$type": "Bookmark",
+@@ -81,8 +81,12 @@
+               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+             },
+             {
++              "$type": "Bookmark",
++              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
++            },
++            {
+               "$type": "Document",
+-              "DocumentIndex": 4,
++              "DocumentIndex": 5,
+               "Title": "Form5.Designer.cs",
+               "DocumentMoniker": "C:\\MyProject_Work\\Form5.Designer.cs",
+               "RelativeDocumentMoniker": "Form5.Designer.cs",
+@@ -90,19 +94,21 @@
+               "RelativeToolTip": "Form5.Designer.cs",
+               "ViewState": "AgIAAEIAAAAAAAAAAADwv2cAAAAAAAAAAAAAAA==",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T01:39:31.87Z"
++              "WhenOpened": "2024-12-19T01:39:31.87Z",
++              "EditorCaption": ""
+             },
+             {
+               "$type": "Document",
+-              "DocumentIndex": 5,
++              "DocumentIndex": 0,
+               "Title": "Form5.cs",
+               "DocumentMoniker": "C:\\MyProject_Work\\Form5.cs",
+               "RelativeDocumentMoniker": "Form5.cs",
+               "ToolTip": "C:\\MyProject_Work\\Form5.cs",
+               "RelativeToolTip": "Form5.cs",
+-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
++              "ViewState": "AgIAAAAAAAAAAAAAAAAowBoAAAApAAAAAAAAAA==",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T01:39:24.836Z"
++              "WhenOpened": "2024-12-19T01:39:24.836Z",
++              "EditorCaption": ""
+             },
+             {
+               "$type": "Document",
+@@ -110,10 +116,11 @@
+               "Title": "Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+               "DocumentMoniker": "C:\\MyProject_Work\\Form5.cs",
+               "RelativeDocumentMoniker": "Form5.cs",
+-              "ToolTip": "C:\\Users\\yanez\\source\\repos\\WindowsFormsAppTRPO\\Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+-              "RelativeToolTip": "..\\Users\\yanez\\source\\repos\\WindowsFormsAppTRPO\\Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
++              "ToolTip": "C:\\MyProject_Work\\Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
++              "RelativeToolTip": "Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T01:39:23.363Z"
++              "WhenOpened": "2024-12-19T01:39:23.363Z",
++              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+             },
+             {
+               "$type": "Document",
+@@ -135,7 +142,7 @@
+               "RelativeDocumentMoniker": "Form4.cs",
+               "ToolTip": "C:\\MyProject_Work\\Form4.cs",
+               "RelativeToolTip": "Form4.cs",
+-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
++              "ViewState": "AgIAAD4AAAAAAAAAAADwv2MAAAAAAAAAAAAAAA==",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+               "WhenOpened": "2024-12-19T00:53:23.206Z",
+               "EditorCaption": ""
+@@ -150,7 +157,8 @@
+               "RelativeToolTip": "Form4.Designer.cs",
+               "ViewState": "AgIAABsAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T01:03:58.516Z"
++              "WhenOpened": "2024-12-19T01:03:58.516Z",
++              "EditorCaption": ""
+             },
+             {
+               "$type": "Document",
+@@ -160,9 +168,10 @@
+               "RelativeDocumentMoniker": "Form3.cs",
+               "ToolTip": "C:\\MyProject_Work\\Form3.cs",
+               "RelativeToolTip": "Form3.cs",
+-              "ViewState": "AgIAAAUAAAAAAAAAAAAkwCcAAAAAAAAAAAAAAA==",
++              "ViewState": "AgIAABgAAAAAAAAAAADwvz0AAAAAAAAAAAAAAA==",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T00:53:05.064Z"
++              "WhenOpened": "2024-12-19T00:53:05.064Z",
++              "EditorCaption": ""
+             },
+             {
+               "$type": "Document",
+@@ -174,7 +183,8 @@
+               "RelativeToolTip": "Form3.Designer.cs",
+               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T01:03:18.738Z"
++              "WhenOpened": "2024-12-19T01:03:18.738Z",
++              "EditorCaption": ""
+             },
+             {
+               "$type": "Document",
+@@ -182,22 +192,24 @@
+               "Title": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+               "DocumentMoniker": "C:\\MyProject_Work\\Form3.cs",
+               "RelativeDocumentMoniker": "Form3.cs",
+-              "ToolTip": "C:\\Users\\yanez\\source\\repos\\WindowsFormsAppTRPO\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+-              "RelativeToolTip": "..\\Users\\yanez\\source\\repos\\WindowsFormsAppTRPO\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
++              "ToolTip": "C:\\MyProject_Work\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
++              "RelativeToolTip": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T00:53:00.066Z"
++              "WhenOpened": "2024-12-19T00:53:00.066Z",
++              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+             },
+             {
+               "$type": "Document",
+-              "DocumentIndex": 3,
++              "DocumentIndex": 4,
+               "Title": "Form2.cs",
+               "DocumentMoniker": "C:\\MyProject_Work\\Form2.cs",
+               "RelativeDocumentMoniker": "Form2.cs",
+               "ToolTip": "C:\\MyProject_Work\\Form2.cs",
+               "RelativeToolTip": "Form2.cs",
+-              "ViewState": "AgIAAB0AAAAAAAAAAADwv0IAAAAAAAAAAAAAAA==",
++              "ViewState": "AgIAADwAAAAAAAAAAADwv2EAAAAAAAAAAAAAAA==",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T00:52:37.677Z"
++              "WhenOpened": "2024-12-19T00:52:37.677Z",
++              "EditorCaption": ""
+             },
+             {
+               "$type": "Document",
+@@ -209,7 +221,8 @@
+               "RelativeToolTip": "Form2.Designer.cs",
+               "ViewState": "AgIAAEoAAAAAAAAAAADwv3wAAAAPAAAAAAAAAA==",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T01:02:14.195Z"
++              "WhenOpened": "2024-12-19T01:02:14.195Z",
++              "EditorCaption": ""
+             },
+             {
+               "$type": "Document",
+@@ -217,20 +230,21 @@
+               "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+               "DocumentMoniker": "C:\\MyProject_Work\\Form2.cs",
+               "RelativeDocumentMoniker": "Form2.cs",
+-              "ToolTip": "C:\\Users\\yanez\\source\\repos\\WindowsFormsAppTRPO\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+-              "RelativeToolTip": "..\\Users\\yanez\\source\\repos\\WindowsFormsAppTRPO\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
++              "ToolTip": "C:\\MyProject_Work\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
++              "RelativeToolTip": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T00:52:36.405Z"
++              "WhenOpened": "2024-12-19T00:52:36.405Z",
++              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+             },
+             {
+               "$type": "Document",
+-              "DocumentIndex": 0,
++              "DocumentIndex": 3,
+               "Title": "Form1.cs",
+               "DocumentMoniker": "C:\\MyProject_Work\\Form1.cs",
+               "RelativeDocumentMoniker": "Form1.cs",
+               "ToolTip": "C:\\MyProject_Work\\Form1.cs",
+               "RelativeToolTip": "Form1.cs",
+-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
++              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+               "WhenOpened": "2024-12-19T00:51:55.94Z",
+               "EditorCaption": ""
+@@ -245,8 +259,7 @@
+               "RelativeToolTip": "Form1.Designer.cs",
+               "ViewState": "AgIAAAwAAAAAAAAAAAAuwBoAAAAWAAAAAAAAAA==",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T01:01:55.827Z",
+-              "EditorCaption": ""
++              "WhenOpened": "2024-12-19T01:01:55.827Z"
+             },
+             {
+               "$type": "Document",
+@@ -257,8 +270,7 @@
+               "ToolTip": "C:\\MyProject_Work\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+               "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T00:51:45.439Z",
+-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
++              "WhenOpened": "2024-12-19T00:51:45.439Z"
+             },
+             {
+               "$type": "Document",
+@@ -266,10 +278,11 @@
+               "Title": "Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+               "DocumentMoniker": "C:\\MyProject_Work\\Form4.cs",
+               "RelativeDocumentMoniker": "Form4.cs",
+-              "ToolTip": "C:\\Users\\yanez\\source\\repos\\WindowsFormsAppTRPO\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+-              "RelativeToolTip": "..\\Users\\yanez\\source\\repos\\WindowsFormsAppTRPO\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
++              "ToolTip": "C:\\MyProject_Work\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
++              "RelativeToolTip": "Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+-              "WhenOpened": "2024-12-19T00:53:22.05Z"
++              "WhenOpened": "2024-12-19T00:53:22.05Z",
++              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+             }
+           ]
+         }
+Index: bin/Debug/WindowsFormsAppTRPO.exe
+===================================================================
+Cannot display: file marked as a binary type.
+svn:mime-type = application/octet-stream
+Index: bin/Debug/WindowsFormsAppTRPO.pdb
+===================================================================
+Cannot display: file marked as a binary type.
+svn:mime-type = application/octet-stream
+Index: Form1.cs
+===================================================================
+--- Form1.cs	(revision 7)
++++ Form1.cs	(working copy)
+@@ -1,8 +1,6 @@
+ ﻿using System;
+ using System.Windows.Forms;
+ 
+-//Добавил комментарии
+-
+ namespace PhotoCenterSystem
+ {
+     public partial class MainWindow : Form
+@@ -14,49 +12,44 @@
+ 
+         private void OpenClientWindow(object sender, EventArgs e)
+         {
+-            RegistrationForm registrationForm = new RegistrationForm();
+-            registrationForm.Show();
++            OpenWindow(new RegistrationForm());
+         }
+ 
+         private void OpenEmployeeWindow(object sender, EventArgs e)
+         {
+-            EmployeeWindow employeeWindow = new EmployeeWindow();
+-            employeeWindow.Show();
++            OpenWindow(new EmployeeWindow());
+         }
+ 
+         private void OpenAdminWindow(object sender, EventArgs e)
+         {
+-            AdminWindow adminWindow = new AdminWindow();
+-            adminWindow.Show();
++            OpenWindow(new AdminWindow());
+         }
+ 
++        private void OpenWindow(Form form)
++        {
++            form.Show();
++        }
++
+         private void InitializeComponent()
+         {
+             this.Text = "Photo Center System";
+             this.Size = new System.Drawing.Size(400, 350);
+ 
+-            Button btnClient = new Button();
+-            btnClient.Text = "Клиент";
+-            btnClient.Click += OpenClientWindow;
+-            btnClient.Size = new System.Drawing.Size(150, 40);
+-            btnClient.Location = new System.Drawing.Point(125, 80);
++            CreateAndAddButton("Клиент", OpenClientWindow, new System.Drawing.Point(125, 80));
++            CreateAndAddButton("Сотрудник", OpenEmployeeWindow, new System.Drawing.Point(125, 130));
++            CreateAndAddButton("Администратор", OpenAdminWindow, new System.Drawing.Point(125, 180));
++        }
+ 
+-            Button btnEmployee = new Button();
+-            btnEmployee.Text = "Сотрудник";
+-            btnEmployee.Click += OpenEmployeeWindow;
+-            btnEmployee.Size = new System.Drawing.Size(150, 40);
+-            btnEmployee.Location = new System.Drawing.Point(125, 130);
+-
+-            Button btnAdmin = new Button();
+-            btnAdmin.Text = "Администратор";
+-            btnAdmin.Click += OpenAdminWindow;
+-            btnAdmin.Size = new System.Drawing.Size(150, 40);
+-            btnAdmin.Location = new System.Drawing.Point(125, 180);
+-
+-            // Добавление кнопок в форму
+-            this.Controls.Add(btnClient);
+-            this.Controls.Add(btnEmployee);
+-            this.Controls.Add(btnAdmin);
++        private void CreateAndAddButton(string text, EventHandler clickHandler, System.Drawing.Point location)
++        {
++            Button button = new Button
++            {
++                Text = text,
++                Size = new System.Drawing.Size(150, 40),
++                Location = location
++            };
++            button.Click += clickHandler;
++            this.Controls.Add(button);
+         }
+     }
+ }
+Index: Form2.cs
+===================================================================
+--- Form2.cs	(revision 7)
++++ Form2.cs	(working copy)
+@@ -20,47 +20,78 @@
+             this.Text = "Клиент";
+             this.Size = new System.Drawing.Size(600, 400);
+ 
+-            TabControl tabControl = new TabControl();
+-            tabControl.Dock = DockStyle.Fill;
++            TabControl tabControl = new TabControl
++            {
++                Dock = DockStyle.Fill
++            };
+ 
+-            TabPage tabPage1 = new TabPage("Личный кабинет");
+-            ListView listView = new ListView();
+-            listView.Columns.Add("Дата", 100);
+-            listView.Columns.Add("Статус", 200);
+-            listView.Columns.Add("Сумма", 100);
++            tabControl.TabPages.Add(CreatePersonalCabinetTab());
++            tabControl.TabPages.Add(CreateOrderPlacementTab());
++
++            // Добавление TabControl в форму
++            this.Controls.Add(tabControl);
++        }
++
++        private TabPage CreatePersonalCabinetTab()
++        {
++            TabPage tabPage = new TabPage("Личный кабинет");
++
++            ListView listView = CreateListView(new[] { "Дата", "Статус", "Сумма" }, new[] { 100, 200, 100 });
+             listView.Dock = DockStyle.Fill;
+-            tabPage1.Controls.Add(listView);
++            tabPage.Controls.Add(listView);
+ 
+-            Button btnSubmitOrder = new Button();
+-            btnSubmitOrder.Text = "Оформить новый заказ";
+-            btnSubmitOrder.Click += SubmitOrder;
+-            btnSubmitOrder.Dock = DockStyle.Bottom;
+-            tabPage1.Controls.Add(btnSubmitOrder);
++            Button btnSubmitOrder = CreateButton("Оформить новый заказ", SubmitOrder, DockStyle.Bottom);
++            tabPage.Controls.Add(btnSubmitOrder);
+ 
+-            TabPage tabPage2 = new TabPage("Оформление заказа");
+-            Button btnUpload = new Button();
+-            btnUpload.Text = "Загрузить";
+-            btnUpload.Dock = DockStyle.Top;
++            return tabPage;
++        }
+ 
+-            ComboBox comboBox = new ComboBox();
+-            comboBox.Items.Add("Глянцевая бумага");
+-            comboBox.Items.Add("Матовая бумага");
+-            comboBox.Dock = DockStyle.Top;
++        private TabPage CreateOrderPlacementTab()
++        {
++            TabPage tabPage = new TabPage("Оформление заказа");
+ 
+-            Button btnConfirmOrder = new Button();
+-            btnConfirmOrder.Text = "Подтвердить заказ";
+-            btnConfirmOrder.Click += SubmitOrder;
+-            btnConfirmOrder.Dock = DockStyle.Bottom;
++            Button btnUpload = CreateButton("Загрузить", null, DockStyle.Top);
++            tabPage.Controls.Add(btnUpload);
+ 
+-            tabPage2.Controls.Add(btnUpload);
+-            tabPage2.Controls.Add(comboBox);
+-            tabPage2.Controls.Add(btnConfirmOrder);
++            ComboBox comboBox = new ComboBox
++            {
++                Dock = DockStyle.Top
++            };
++            comboBox.Items.AddRange(new[] { "Глянцевая бумага", "Матовая бумага" });
++            tabPage.Controls.Add(comboBox);
+ 
+-            tabControl.TabPages.Add(tabPage1);
+-            tabControl.TabPages.Add(tabPage2);
++            Button btnConfirmOrder = CreateButton("Подтвердить заказ", SubmitOrder, DockStyle.Bottom);
++            tabPage.Controls.Add(btnConfirmOrder);
+ 
+-            // Добавление TabControl в форму
+-            this.Controls.Add(tabControl);
++            return tabPage;
+         }
++
++        private ListView CreateListView(string[] columnNames, int[] columnWidths)
++        {
++            ListView listView = new ListView();
++
++            for (int i = 0; i < columnNames.Length; i++)
++            {
++                listView.Columns.Add(columnNames[i], columnWidths[i]);
++            }
++
++            return listView;
++        }
++
++        private Button CreateButton(string text, EventHandler clickHandler, DockStyle dockStyle)
++        {
++            Button button = new Button
++            {
++                Text = text,
++                Dock = dockStyle
++            };
++
++            if (clickHandler != null)
++            {
++                button.Click += clickHandler;
++            }
++
++            return button;
++        }
+     }
+ }
+Index: Form3.cs
+===================================================================
+--- Form3.cs	(revision 7)
++++ Form3.cs	(working copy)
+@@ -20,20 +20,42 @@
+             this.Text = "Сотрудник";
+             this.Size = new System.Drawing.Size(600, 400);
+ 
+-            ListView listView = new ListView();
++            ListView listView = CreateOrderListView();
++            Button btnUpdateStatus = CreateButton("Обновить статус", UpdateOrderStatus, DockStyle.Bottom);
++
++            // Добавление элементов на форму
++            this.Controls.Add(listView);
++            this.Controls.Add(btnUpdateStatus);
++        }
++
++        private ListView CreateOrderListView()
++        {
++            ListView listView = new ListView
++            {
++                Dock = DockStyle.Top
++            };
++
+             listView.Columns.Add("Номер", 100);
+             listView.Columns.Add("Клиент", 200);
+             listView.Columns.Add("Статус", 100);
+-            listView.Dock = DockStyle.Top;
+ 
+-            Button btnUpdateStatus = new Button();
+-            btnUpdateStatus.Text = "Обновить статус";
+-            btnUpdateStatus.Click += UpdateOrderStatus;
+-            btnUpdateStatus.Dock = DockStyle.Bottom;
++            return listView;
++        }
+ 
+-            // Добавление элементов на форму
+-            this.Controls.Add(listView);
+-            this.Controls.Add(btnUpdateStatus);
++        private Button CreateButton(string text, EventHandler clickHandler, DockStyle dockStyle)
++        {
++            Button button = new Button
++            {
++                Text = text,
++                Dock = dockStyle
++            };
++
++            if (clickHandler != null)
++            {
++                button.Click += clickHandler;
++            }
++
++            return button;
+         }
+     }
+ }
+Index: Form4.cs
+===================================================================
+--- Form4.cs	(revision 7)
++++ Form4.cs	(working copy)
+@@ -25,42 +25,75 @@
+             this.Text = "Администратор";
+             this.Size = new System.Drawing.Size(600, 400);
+ 
+-            TabControl tabControl = new TabControl();
+-            tabControl.Dock = DockStyle.Fill;
++            TabControl tabControl = new TabControl
++            {
++                Dock = DockStyle.Fill
++            };
+ 
+-            TabPage tabPage1 = new TabPage("Пользователи");
+-            ListView listView = new ListView();
+-            listView.Columns.Add("Имя", 200);
+-            listView.Columns.Add("Роль", 150);
+-            listView.Columns.Add("Последний вход", 150);
++            tabControl.TabPages.Add(CreateUserManagementTab());
++            tabControl.TabPages.Add(CreateReportTab());
++
++            // Добавление TabControl в форму
++            this.Controls.Add(tabControl);
++        }
++
++        private TabPage CreateUserManagementTab()
++        {
++            TabPage tabPage = new TabPage("Пользователи");
++
++            ListView listView = CreateListView(new[] { "Имя", "Роль", "Последний вход" }, new[] { 200, 150, 150 });
+             listView.Dock = DockStyle.Fill;
+-            tabPage1.Controls.Add(listView);
++            tabPage.Controls.Add(listView);
+ 
+-            Button btnAddUser = new Button();
+-            btnAddUser.Text = "Добавить пользователя";
+-            btnAddUser.Click += AddUser;
+-            btnAddUser.Dock = DockStyle.Bottom;
+-            tabPage1.Controls.Add(btnAddUser);
++            Button btnAddUser = CreateButton("Добавить пользователя", AddUser, DockStyle.Bottom);
++            tabPage.Controls.Add(btnAddUser);
+ 
+-            TabPage tabPage2 = new TabPage("Отчёты");
+-            ComboBox comboBox = new ComboBox();
+-            comboBox.Items.Add("Финансовый");
+-            comboBox.Items.Add("Заказы");
+-            comboBox.Dock = DockStyle.Top;
++            return tabPage;
++        }
+ 
+-            Button btnGenerateReport = new Button();
+-            btnGenerateReport.Text = "Сгенерировать отчёт";
+-            btnGenerateReport.Click += GenerateReport;
+-            btnGenerateReport.Dock = DockStyle.Bottom;
++        private TabPage CreateReportTab()
++        {
++            TabPage tabPage = new TabPage("Отчёты");
+ 
+-            tabPage2.Controls.Add(comboBox);
+-            tabPage2.Controls.Add(btnGenerateReport);
++            ComboBox comboBox = new ComboBox
++            {
++                Dock = DockStyle.Top
++            };
++            comboBox.Items.AddRange(new[] { "Финансовый", "Заказы" });
++            tabPage.Controls.Add(comboBox);
+ 
+-            tabControl.TabPages.Add(tabPage1);
+-            tabControl.TabPages.Add(tabPage2);
++            Button btnGenerateReport = CreateButton("Сгенерировать отчёт", GenerateReport, DockStyle.Bottom);
++            tabPage.Controls.Add(btnGenerateReport);
+ 
+-            // Добавление TabControl в форму
+-            this.Controls.Add(tabControl);
++            return tabPage;
+         }
++
++        private ListView CreateListView(string[] columnNames, int[] columnWidths)
++        {
++            ListView listView = new ListView();
++
++            for (int i = 0; i < columnNames.Length; i++)
++            {
++                listView.Columns.Add(columnNames[i], columnWidths[i]);
++            }
++
++            return listView;
++        }
++
++        private Button CreateButton(string text, EventHandler clickHandler, DockStyle dockStyle)
++        {
++            Button button = new Button
++            {
++                Text = text,
++                Dock = dockStyle
++            };
++
++            if (clickHandler != null)
++            {
++                button.Click += clickHandler;
++            }
++
++            return button;
++        }
+     }
+ }
+Index: obj/Debug/WindowsFormsAppTRPO.csproj.FileListAbsolute.txt
+===================================================================
+--- obj/Debug/WindowsFormsAppTRPO.csproj.FileListAbsolute.txt	(revision 7)
++++ obj/Debug/WindowsFormsAppTRPO.csproj.FileListAbsolute.txt	(working copy)
+@@ -12,3 +12,17 @@
+ C:\Users\yanez\source\repos\WindowsFormsAppTRPO\obj\Debug\WindowsFormsAppTRPO.exe
+ C:\Users\yanez\source\repos\WindowsFormsAppTRPO\obj\Debug\WindowsFormsAppTRPO.pdb
+ C:\Users\yanez\source\repos\WindowsFormsAppTRPO\obj\Debug\PhotoCenterSystem.RegistrationForm.resources
++C:\MyProject_Work\bin\Debug\WindowsFormsAppTRPO.exe.config
++C:\MyProject_Work\bin\Debug\WindowsFormsAppTRPO.exe
++C:\MyProject_Work\bin\Debug\WindowsFormsAppTRPO.pdb
++C:\MyProject_Work\obj\Debug\WindowsFormsAppTRPO.csproj.AssemblyReference.cache
++C:\MyProject_Work\obj\Debug\PhotoCenterSystem.MainWindow.resources
++C:\MyProject_Work\obj\Debug\PhotoCenterSystem.ClientWindow.resources
++C:\MyProject_Work\obj\Debug\PhotoCenterSystem.EmployeeWindow.resources
++C:\MyProject_Work\obj\Debug\PhotoCenterSystem.AdminWindow.resources
++C:\MyProject_Work\obj\Debug\PhotoCenterSystem.RegistrationForm.resources
++C:\MyProject_Work\obj\Debug\WindowsFormsAppTRPO.Properties.Resources.resources
++C:\MyProject_Work\obj\Debug\WindowsFormsAppTRPO.csproj.GenerateResource.cache
++C:\MyProject_Work\obj\Debug\WindowsFormsAppTRPO.csproj.CoreCompileInputs.cache
++C:\MyProject_Work\obj\Debug\WindowsFormsAppTRPO.exe
++C:\MyProject_Work\obj\Debug\WindowsFormsAppTRPO.pdb
+Index: obj/Debug/WindowsFormsAppTRPO.csproj.GenerateResource.cache
+===================================================================
+Cannot display: file marked as a binary type.
+svn:mime-type = application/octet-stream
+Index: obj/Debug/WindowsFormsAppTRPO.exe
+===================================================================
+Cannot display: file marked as a binary type.
+svn:mime-type = application/octet-stream
+Index: obj/Debug/WindowsFormsAppTRPO.pdb
+===================================================================
+Cannot display: file marked as a binary type.
+svn:mime-type = application/octet-stream

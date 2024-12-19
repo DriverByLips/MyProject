@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyProject_Work\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|c:\\myproject_work\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form5.Designer.cs",
+              "DocumentMoniker": "C:\\MyProject_Work\\Form5.Designer.cs",
+              "RelativeDocumentMoniker": "Form5.Designer.cs",
+              "ToolTip": "C:\\MyProject_Work\\Form5.Designer.cs",
+              "RelativeToolTip": "Form5.Designer.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAADwv2cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:39:31.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\MyProject_Work\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "C:\\MyProject_Work\\Form5.cs",
+              "RelativeToolTip": "Form5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:39:24.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\MyProject_Work\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "C:\\Users\\yanez\\source\\repos\\WindowsFormsAppTRPO\\Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Users\\yanez\\source\\repos\\WindowsFormsAppTRPO\\Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:39:23.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyProject_Work\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\MyProject_Work\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAArwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:06:29.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\MyProject_Work\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\MyProject_Work\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:53:23.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form4.Designer.cs",
+              "DocumentMoniker": "C:\\MyProject_Work\\Form4.Designer.cs",
+              "RelativeDocumentMoniker": "Form4.Designer.cs",
+              "ToolTip": "C:\\MyProject_Work\\Form4.Designer.cs",
+              "RelativeToolTip": "Form4.Designer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:03:58.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\MyProject_Work\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\MyProject_Work\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:53:05.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\MyProject_Work\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "Form3.Designer.cs",
+              "ToolTip": "C:\\MyProject_Work\\Form3.Designer.cs",
+              "RelativeToolTip": "Form3.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:03:18.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\MyProject_Work\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\yanez\\source\\repos\\WindowsFormsAppTRPO\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Users\\yanez\\source\\repos\\WindowsFormsAppTRPO\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:53:00.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\MyProject_Work\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\MyProject_Work\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwv0IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:52:37.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\MyProject_Work\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Form2.Designer.cs",
+              "ToolTip": "C:\\MyProject_Work\\Form2.Designer.cs",
+              "RelativeToolTip": "Form2.Designer.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAADwv3wAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:02:14.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\MyProject_Work\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\yanez\\source\\repos\\WindowsFormsAppTRPO\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Users\\yanez\\source\\repos\\WindowsFormsAppTRPO\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:52:36.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\MyProject_Work\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\MyProject_Work\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:51:55.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\MyProject_Work\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\MyProject_Work\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:01:55.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\MyProject_Work\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\MyProject_Work\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:51:45.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\MyProject_Work\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\yanez\\source\\repos\\WindowsFormsAppTRPO\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Users\\yanez\\source\\repos\\WindowsFormsAppTRPO\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:53:22.05Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
