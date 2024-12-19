@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\MyProject_Work\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|c:\\myproject_work\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,12 +15,20 @@
       "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|c:\\myproject_work\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,20 +39,12 @@
       "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,16 +86,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form5.Designer.cs",
-              "DocumentMoniker": "C:\\MyProject_Work\\Form5.Designer.cs",
-              "RelativeDocumentMoniker": "Form5.Designer.cs",
-              "ToolTip": "C:\\MyProject_Work\\Form5.Designer.cs",
-              "RelativeToolTip": "Form5.Designer.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAADwv2cAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\MyProject_Work\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "C:\\MyProject_Work\\Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T01:39:31.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T01:39:23.363Z"
             },
             {
               "$type": "Document",
@@ -105,22 +103,10 @@
               "RelativeDocumentMoniker": "Form5.cs",
               "ToolTip": "C:\\MyProject_Work\\Form5.cs",
               "RelativeToolTip": "Form5.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAowBoAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T01:39:24.836Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\MyProject_Work\\Form5.cs",
-              "RelativeDocumentMoniker": "Form5.cs",
-              "ToolTip": "C:\\MyProject_Work\\Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T01:39:23.363Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
@@ -142,7 +128,7 @@
               "RelativeDocumentMoniker": "Form4.cs",
               "ToolTip": "C:\\MyProject_Work\\Form4.cs",
               "RelativeToolTip": "Form4.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAADwv2MAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAADwv2oAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T00:53:23.206Z",
               "EditorCaption": ""
@@ -168,7 +154,7 @@
               "RelativeDocumentMoniker": "Form3.cs",
               "ToolTip": "C:\\MyProject_Work\\Form3.cs",
               "RelativeToolTip": "Form3.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAADwvz0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwv0QAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T00:53:05.064Z",
               "EditorCaption": ""
@@ -200,26 +186,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\MyProject_Work\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
               "ToolTip": "C:\\MyProject_Work\\Form2.cs",
               "RelativeToolTip": "Form2.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAADwv2EAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T00:52:37.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Form2.Designer.cs",
               "DocumentMoniker": "C:\\MyProject_Work\\Form2.Designer.cs",
               "RelativeDocumentMoniker": "Form2.Designer.cs",
               "ToolTip": "C:\\MyProject_Work\\Form2.Designer.cs",
               "RelativeToolTip": "Form2.Designer.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAADwv3wAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T01:02:14.195Z",
               "EditorCaption": ""
@@ -227,6 +213,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\MyProject_Work\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\MyProject_Work\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:51:45.439Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\MyProject_Work\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\MyProject_Work\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwv0cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:51:55.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form5.Designer.cs",
+              "DocumentMoniker": "C:\\MyProject_Work\\Form5.Designer.cs",
+              "RelativeDocumentMoniker": "Form5.Designer.cs",
+              "ToolTip": "C:\\MyProject_Work\\Form5.Designer.cs",
+              "RelativeToolTip": "Form5.Designer.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAADwv2cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:39:31.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\MyProject_Work\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -238,20 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\MyProject_Work\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\MyProject_Work\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T00:51:55.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\MyProject_Work\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
@@ -259,18 +269,8 @@
               "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAuwBoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T01:01:55.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\MyProject_Work\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\MyProject_Work\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T00:51:45.439Z"
+              "WhenOpened": "2024-12-19T01:01:55.827Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
