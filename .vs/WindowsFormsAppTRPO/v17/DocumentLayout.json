@@ -19,12 +19,12 @@
       "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F15138A-E468-4D83-B9F9-5FED23825206}|WindowsFormsAppTRPO.csproj|C:\\MyProject_Work\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -93,7 +93,8 @@
               "ToolTip": "C:\\MyProject_Work\\Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T01:39:23.363Z"
+              "WhenOpened": "2024-12-19T01:39:23.363Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
@@ -103,7 +104,7 @@
               "RelativeDocumentMoniker": "Form5.cs",
               "ToolTip": "C:\\MyProject_Work\\Form5.cs",
               "RelativeToolTip": "Form5.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwCoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvy4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T01:39:24.836Z",
               "EditorCaption": ""
@@ -128,7 +129,7 @@
               "RelativeDocumentMoniker": "Form4.cs",
               "ToolTip": "C:\\MyProject_Work\\Form4.cs",
               "RelativeToolTip": "Form4.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAADwv2oAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwv3cAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T00:53:23.206Z",
               "EditorCaption": ""
@@ -154,7 +155,7 @@
               "RelativeDocumentMoniker": "Form3.cs",
               "ToolTip": "C:\\MyProject_Work\\Form3.cs",
               "RelativeToolTip": "Form3.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAADwv0QAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAADwv0gAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T00:53:05.064Z",
               "EditorCaption": ""
@@ -199,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form2.Designer.cs",
               "DocumentMoniker": "C:\\MyProject_Work\\Form2.Designer.cs",
               "RelativeDocumentMoniker": "Form2.Designer.cs",
@@ -224,13 +225,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\MyProject_Work\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\MyProject_Work\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAADwv0cAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAADwv0sAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T00:51:55.94Z",
               "EditorCaption": ""
